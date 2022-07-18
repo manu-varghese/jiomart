@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Rubik',sans-serif;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: black;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    font-family: 'Rubik',sans-serif;
+    border: 2px solid rgb(214, 216, 96);
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: rgb(171, 221, 20);
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+}
+.main{
+    background: url(./img/81f3ff974d82520780078ba1cfbd453a1583259680.png) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: 'robot';
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(248,26,92);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.btn1:hover{
+    background-color: rgb(218, 27, 84);
+    transition: 0.5s;
+}
+h1{
+    font-weight: 700;
+}
+.card:hover{
+    -webkit-box-shadow: 3px 4px 8px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 4px 8px 1px rgba(0,0,0,0.75);
+box-shadow: 3px 4px 8px 1px rgba(0,0,0,0.75);
+transition: .5s;
+}
+.apple{
+    background: linear-gradient(rgb(0,0,0,0.2), rgba(0,0,0,0.2)),url('./img/81f3ff974d82520780078ba1cfbd453a1583259680.png')no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.apple h1{
+    font-family: 'Lobster', cursive;
+}
+.news{
+    background-color: rgb(136, 133, 133);
+    color: white;
+}
+.btn2{
+    height: 45px;
+    width: 100px;
+    background: white;
+    margin-left: -10px;
+    border: 2px solid white;
+    font-weight: 600;
+}
+.news input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline:none;
+    background: rgb(230, 221, 221);
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.news::placeholder{
+    color: white;
+}
+.news p{
+    margin: 0;
+}

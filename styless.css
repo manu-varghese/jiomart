@@ -85,8 +85,8 @@ transition: .5s;
     font-family: 'Lobster', cursive;
 }
 .news{
-    background-color: rgb(136, 133, 133);
-    color: white;
+    background-color: rgb(193, 192, 192);
+    color: rgb(78, 72, 72);
 }
 .btn2{
     height: 45px;

@@ -28,14 +28,14 @@
     outline: none;
     margin-right: -35px;
     font-family: 'Rubik',sans-serif;
-    border: 2px solid rgb(214, 216, 96);
+    border: 2px solid rgb(232, 232, 229);
 }
 .btn0{
     height: 40px;
     width: 40%;
     outline: none;
     border: none;
-    background: rgb(171, 221, 20);
+    background: rgb(190, 220, 93);
     color: white;
     border-radius: 60px;
     font-weight: 700;

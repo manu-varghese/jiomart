@@ -70,10 +70,9 @@ h1{
     font-weight: 700;
 }
 .card:hover{
-    -webkit-box-shadow: 3px 4px 8px 1px rgba(0,0,0,0.75);
--moz-box-shadow: 3px 4px 8px 1px rgba(0,0,0,0.75);
-box-shadow: 3px 4px 8px 1px rgba(0,0,0,0.75);
-transition: .5s;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
 }
 .apple{
     background: linear-gradient(rgb(0,0,0,0.2), rgba(0,0,0,0.2)),url('./img/81f3ff974d82520780078ba1cfbd453a1583259680.png')no-repeat;
